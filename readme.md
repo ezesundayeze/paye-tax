@@ -6,6 +6,9 @@ This module is constantly updated to keep you tax compliant.
 
 [![CircleCI](https://circleci.com/gh/ezesundayeze/paye-tax.svg?style=svg)](https://circleci.com/gh/ezesundayeze/paye-tax)
 
+[badge]: https://circleci.com/gh/ezesundayeze/paye-tax.svg?style=svg "CircleCi"
+
+
 ## Installation
 
 ```bash
