@@ -17,7 +17,6 @@ pip install git+https://github.com/ezesundayeze/paye-tax.git@80371bb304ddd2ef6bd
 ## Usage
 
 ```python
-import foobar
 from ngpayetax import PayeTax
 annual_taxable_income = 1250000
 payetax = PayeTax(annual_taxable_income)
