@@ -4,9 +4,9 @@ Ngpayetax is a very simple Pay As You Earn module. It allows you to easily calcu
 
 This module is constantly updated to keep you tax compliant.
 
+[![CircleCI](https://circleci.com/gh/ezesundayeze/paye-tax.svg?style=svg)](https://circleci.com/gh/ezesundayeze/paye-tax)
+
 ## Installation
-
-
 
 ```bash
 
