@@ -1,1 +1,1 @@
-from index import PayeTax
+from ngpayetax.index import PayeTax
