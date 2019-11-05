@@ -1,7 +1,11 @@
 class PayeTax:
-    def __init__(self, taxable_income):
+    def __init__(self, annual_taxable_income):
+        """ 
+        Taxable income: Taxable income refers to the base upon which an income tax system imposes tax
+        This function accepts your yearly taxable income
+        """
         self.tax= 0.0
-        self.taxable_income = taxable_income
+        self.taxable_income = annual_taxable_income
 
     def annual(self):
 
